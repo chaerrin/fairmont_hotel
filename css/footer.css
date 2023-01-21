@@ -84,6 +84,10 @@ li {
   list-style: none;
 }
 
+.no {
+  display: none;
+}
+
 footer {
   padding-top: 30px;
   background-color: #333333;

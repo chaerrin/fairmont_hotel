@@ -88,6 +88,10 @@ li {
   display: none;
 }
 
+.no {
+  display: none;
+}
+
 .main0 {
   background-size: cover;
   height: 100vh;
