@@ -127,7 +127,7 @@ main .room_int .room_cont .room_sub h5 {
 }
 
 main .room_int .room_cont .room_sub h6 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(8px + 1.5vw);
   padding-top: calc(3px + 0.5vw);
   letter-spacing: 2px;
@@ -191,7 +191,7 @@ main .room_int .room_cont .room_sub ul.r_info li img {
 main .room_int .room_cont .room_sub ul.r_info li p {
   position: relative;
   text-align: center;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.5em + 1.2vw);
   padding-top: 10px;
 }
@@ -261,7 +261,7 @@ main .room_gall {
 }
 
 main .room_gall h3 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 5vw);
   margin-bottom: calc(0.5em + 3vw);
   text-align: center;
@@ -383,7 +383,7 @@ main .room_types {
 }
 
 main .room_types h3 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 5vw);
   margin-bottom: calc(0.5em + 3vw);
   text-align: center;
@@ -721,7 +721,7 @@ main .room_modal .overview {
 }
 
 main .room_modal .overview h4 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.5em + 3vw);
   margin-bottom: calc(0.5em + 2vw);
   text-align: center;
@@ -785,7 +785,7 @@ main .room_modal .room_in {
 }
 
 main .room_modal .room_in h4 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.5em + 3vw);
   margin-bottom: calc(0.5em + 2vw);
   text-align: center;
@@ -942,7 +942,7 @@ main .room_modal .room_amenity {
 }
 
 main .room_modal .room_amenity h4 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.5em + 3vw);
   margin-bottom: calc(0.5em + 2vw);
   text-align: center;
@@ -1065,7 +1065,7 @@ main .room_modal .room_smoke {
 }
 
 main .room_modal .room_smoke h4 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.5em + 3vw);
   margin-bottom: calc(0.5em + 2vw);
   text-align: center;
@@ -1175,7 +1175,7 @@ main .notice {
 }
 
 main .notice h3 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 5vw);
   margin-bottom: calc(0.5em + 3vw);
   text-align: center;
@@ -1312,7 +1312,7 @@ main .other_room {
 }
 
 main .other_room h3 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 5vw);
   margin-bottom: calc(0.5em + 3vw);
   text-align: center;
@@ -1422,7 +1422,7 @@ main .other_room .other_ent div .matte {
 }
 
 main .other_room .other_ent div .matte h5 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 1vw);
 }
 

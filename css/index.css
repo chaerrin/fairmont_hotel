@@ -205,7 +205,7 @@ li {
 
 .main0 .mouse p {
   transform: translateX(-50%);
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   letter-spacing: 1px;
   color: white;
 }
@@ -276,7 +276,7 @@ li {
 }
 
 .main1 .contents .semi_container h2 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.5em + 3vw);
   letter-spacing: 2px;
   font-weight: 400;
@@ -390,7 +390,7 @@ li {
 }
 
 .main1 .info .semi_container .info_flex div h4 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(10px + 0.5em);
   letter-spacing: 1px;
 }
@@ -413,7 +413,7 @@ li {
 
 .main1 .info .semi_container .info_flex div span.rolling {
   display: block;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(16px + 0.5em);
   color: #f4d823;
   letter-spacing: 1px;
@@ -428,7 +428,7 @@ li {
 }
 
 .main1 .info .semi_container .info_flex div p {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(4px + 0.5em);
   margin-top: 2px;
 }
@@ -470,7 +470,7 @@ li {
   position: relative;
   text-align: center;
   font-size: 0.8em;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   letter-spacing: 1px;
   margin-right: 10px;
 }
@@ -586,7 +586,7 @@ li {
 }
 
 .main2 .contents .room_flex .content_slide .room_back .rooms h2 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: 2em;
   color: white;
   opacity: 0.8;
@@ -620,7 +620,7 @@ li {
 }
 
 .main2 .contents .room_flex .content_slide .room_back .rooms .room_container h3 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 1vw);
   padding-top: 20px;
 }
@@ -653,7 +653,7 @@ li {
 
 .main2 .contents .room_flex .content_slide .room_back .rooms .room_container h3 span {
   display: inline;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: 16px;
 }
 
@@ -677,7 +677,7 @@ li {
 }
 
 .main2 .contents .room_flex .content_slide .room_back .rooms .room_container .room_type a {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.6em + 0.6vw);
   color: #666666;
   opacity: 0.3;
@@ -779,7 +779,7 @@ li {
   position: relative;
   text-align: center;
   font-size: 0.8em;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   letter-spacing: 1px;
   margin-right: 10px;
 }
@@ -922,7 +922,7 @@ li {
 }
 
 .main3 .contents .faci_flex .faci_contents_slide .faci_back .facil .container .faci_flex h3 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 2vw);
 }
 
@@ -1153,7 +1153,7 @@ li {
 .main4 .serv_list .contents .sec .serv_con .title p {
   display: inline-block;
   position: relative;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1.5em + 1vw);
   letter-spacing: 2px;
 }
@@ -1181,7 +1181,7 @@ li {
 }
 
 .main4 .serv_list .contents .sec .serv_con span h3 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 1vw);
   letter-spacing: 2px;
 }

@@ -39,7 +39,7 @@ main .sec1 .container .flex-box .flex-box1 {
 }
 
 main .sec1 .container .flex-box .flex-box1 .info {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   line-height: 50px;
   letter-spacing: 1px;
 }
@@ -82,7 +82,7 @@ main .sec1 .container .flex-box .menu-flex-box .menu {
 }
 
 main .sec1 .container .flex-box .menu-flex-box .menu a {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.6em + 0.6vw);
 }
 
@@ -150,12 +150,12 @@ main .sec2 .sec2-box .hover-img p {
 }
 
 main .sec2 .sec2-box .hover-img p strong {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   letter-spacing: 2px;
 }
 
 main .sec2 .sec2-box .hover-img p a {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   color: #333333;
   font-size: 24px;
 }
@@ -195,7 +195,7 @@ main .sec3 .sec3-text p {
 
 main .sec3 .sec3-text .rooftop {
   letter-spacing: 2px;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1.5em + 3vw);
 }
 

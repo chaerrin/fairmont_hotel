@@ -71,7 +71,7 @@ section div.main0 .main0_contents {
 }
 
 section div.main0 .main0_contents h2 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1.5em + 3vw);
   letter-spacing: 2px;
   color: white;
@@ -184,7 +184,7 @@ section div.main0 .mouse img {
 
 section div.main0 .mouse p {
   transform: translateX(-50%);
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   letter-spacing: 1px;
   color: white;
 }
@@ -271,7 +271,7 @@ main section h2 {
   text-align: center;
   margin-top: 70px;
   margin-bottom: 85px;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1em + 5vw);
   margin-bottom: calc(0.5em + 3vw);
   text-align: center;
@@ -317,7 +317,7 @@ main section h3::before {
 }
 
 main section h4 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(14px + 1vw);
   letter-spacing: 1px;
 }

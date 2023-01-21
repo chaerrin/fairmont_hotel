@@ -43,7 +43,7 @@ main .sec1 .container .flex-box .flex-box1 {
 main .sec1 .container .flex-box .flex-box1 .info {
   line-height: 50px;
   letter-spacing: 1px;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.6em + 0.6vw);
 }
 
@@ -90,7 +90,7 @@ main .sec1 .container .flex-box .menu-flex-box .menu {
 }
 
 main .sec1 .container .flex-box .menu-flex-box .menu a {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.6em + 0.6vw);
 }
 
@@ -123,7 +123,7 @@ main .sec1 .sec1-img {
 }
 
 main .sec1 .sec1-img p {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1.5em + 3vw);
   color: white;
   font-weight: 400;
@@ -179,7 +179,7 @@ main .sec2 .sec2-flex-box {
 main .sec2 .sec2-flex-box .notice {
   line-height: 50px;
   letter-spacing: 1px;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.6em + 0.6vw);
 }
 
@@ -227,7 +227,7 @@ main .sec2 .sec2-img {
 }
 
 main .sec2 .sec2-img p {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1.5em + 3vw);
   color: white;
   text-align: center;
@@ -300,7 +300,7 @@ main .sec5 .hover-img1 p,
 main .sec5 .hover-img2 p,
 main .sec5 .hover-img3 p,
 main .sec5 .hover-img4 p {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1.5em + 3vw);
   color: white;
   text-align: center;

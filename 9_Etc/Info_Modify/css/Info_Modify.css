@@ -104,7 +104,7 @@ header .header_entire .menu .menu_bar span:nth-child(3) {
 }
 
 header .header_entire .menu .menu_type p {
-  font-family: "LEMON MILK Light", sans-serif;
+  font-family: "LEMONMILK-Light", sans-serif;
   font-size: 16px;
 }
 
@@ -166,7 +166,7 @@ section div.main0 .main0_contents {
 }
 
 section div.main0 .main0_contents h2 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(1.5em + 3vw);
   letter-spacing: 2px;
   color: white;
@@ -279,7 +279,7 @@ section div.main0 .mouse img {
 
 section div.main0 .mouse p {
   transform: translateX(-50%);
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   letter-spacing: 1px;
   color: white;
 }
@@ -376,7 +376,7 @@ main .bighead .image_area .titlearea {
 }
 
 main .bighead .image_area .titlearea h1 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(2em + 3vw);
   color: #fefdf0;
   letter-spacing: 2px;
@@ -431,7 +431,7 @@ main .bighead .contents_area .info_flex .info_left {
 }
 
 main .bighead .contents_area .info_flex .info_left h4 {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(0.5em + 3vw);
   margin-bottom: calc(0.5em + 2vw);
   text-align: center;
@@ -561,7 +561,7 @@ main .bighead .contents_area .info_flex .info_left form ul.info_up_form li .labe
 }
 
 main .bighead .contents_area .info_flex .info_left form ul.info_up_form li .label_input label p span {
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
   font-size: calc(10px + 0.8vw);
   letter-spacing: 2px;
   margin-right: 5px;
@@ -945,7 +945,7 @@ main .bighead .contents_area .info_flex .info_right p.quote q {
   letter-spacing: 1px;
   font-size: 1em;
   font-style: normal;
-  font-family: "LEMON MILK Light";
+  font-family: "LEMONMILK-Light";
 }
 
 main .bighead .contents_area .back_logo {
