@@ -122,7 +122,7 @@ $(document).ready(function() {
 
         }
 
-        if($(this).scrollTop()+this.innerHeight>h3_otop+$('h3.oroom').innerHeight()/2-$('.room_modal').innerHeight()) {
+        if($(this).scrollTop()+this.innerHeight>h3_otop+$('h3.oroom').innerHeight()/2-$('.room_modal').innerHeight()-$('.hotel_book .accord').innerHeight()) {
             
             $('h3.oroom').animate({
                 'opacity': 1,
